@@ -1,2 +1,2 @@
 lorem <tab>
-2 lorem
+2 
